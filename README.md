@@ -18,5 +18,11 @@ Project Goal:
 
  
 Project Goal: Provide a robust and secure data encryption strategy within the AWS cloud environment to significantly reduce the risk of data breaches and improve overall data security posture. 
+
+
+
+
+
+
 Target Audience: Cloud Security Architects, Security Engineers, Data Security Specialists
 
