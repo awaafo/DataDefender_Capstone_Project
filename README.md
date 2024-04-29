@@ -25,7 +25,7 @@ Project Goal: Provide a robust and secure data encryption strategy within the AW
 
 Requirements
 
-Team Members Role:
+**Team Members Role:**
 
 - Team Leader - Takala
 - Project Manager- Awa 
@@ -33,7 +33,7 @@ Team Members Role:
 - Technical Lead Support : Mariana 
 
 
-Project Visual workflow :
+**Project Visual workflow :**
 
 
 
@@ -41,18 +41,18 @@ Project Visual workflow :
 
 
 
-Lab Report- (link)
+****Lab Report**- (link)
 
-Presentation- (Link) 
-
-
+**Presentation-** (Link) 
 
 
 
-Final Paper- (link)
 
 
-Technical Documentations
+**Final Paper-** (link)
+
+
+**Technical Documentations**
 
 (link)
 
@@ -86,8 +86,8 @@ Technical Documentations
 
 
 
-
-Target Audience: Cloud Security Architects, Security Engineers, Data Security Specialists
+**
+Target Audience:** Cloud Security Architects, Security Engineers, Data Security Specialists
 
 
 
