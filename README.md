@@ -41,6 +41,8 @@ Requirements
 
 
 
+
+
 ****Lab Report**- (link)
 
 **Presentation-**   https://docs.google.com/presentation/d/1-MS0H6ERz9f-Mgbuv66Y6AVCNLSGlSUENfCYwCjQwbo/edit?usp=sharing
@@ -88,6 +90,20 @@ Requirements
 
 **
 Target Audience:** Cloud Security Architects, Security Engineers, Data Security Specialists
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:
+
+This guide, "Securing Sensitive Data in a Financial Application with AWS KMS and Cloud HSM," is for educational purposes only. Do not use real financial data for testing. Ensure compliance with all relevant regulations and standards. Implement additional security measures as needed.
 
 
 
