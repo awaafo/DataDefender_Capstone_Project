@@ -32,12 +32,12 @@ Data Security Specialists
 **Team info & Roles**
 
 Group members and emails:
-Takala		Takala.crook@gmail.com           Awa		awaafo1023@gmail.com   	Jaelin     jaelinlazenberry@yahoo.com         Mariana:        ny.montse@gmail.com 
+Takala		Takala.crook@gmail.com           Awa		       awaafo1023@gmail.com              	Jaelin     jaelinlazenberry@yahoo.com                  Mariana:        ny.montse@gmail.com 
 
 
 
-Takala
-Team Leader Responsibilities   
+Takala -  Team Leader Responsibilities   
+
 Team leaders are responsible for training team members, setting strategy and monitoring progress towards goals
 Good leaders should have strong communication, problem-solving, organizational and delegation skills
 Motivates team
@@ -45,8 +45,8 @@ Motivates team
 
 
 
-Awa 
-Project Manager Responsibilities 
+Awa - Project Manager Responsibilities 
+
 Identifying project goals and scope.
 Planning and documenting project tasks.
 Ensuring deliverables are delivered on-time.
@@ -55,8 +55,8 @@ Managing all project resources.
 
 
 
-Jaelin
-Technical Lead Responsibilities 
+Jaelin - Technical Lead Responsibilities 
+
 Leads the technical half of the project
 Guides team through technical issues and challenges
 Collaborates with their team to identify and fix technical problems
@@ -68,8 +68,8 @@ Ensure the smooth functioning of technical operations
 
 
 
-Mariana
-Technical Lead Support Responsibilities
+Mariana - Technical Lead Support Responsibilities
+
 Provides recommendations for technical solutions
 Helps troubleshoot
 Assists the technical lead and contributes to solving technical difficulties 
